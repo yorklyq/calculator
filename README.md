@@ -3,6 +3,7 @@ Calculator.js: a node.js Demonstration Project
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
 
+[![Build Status](https://dev.azure.com/yorkucan/york-azdevops-1/_apis/build/status/yorklyq.atlantis-example?branchName=master)](https://dev.azure.com/yorkucan/york-azdevops-1/_build/latest?definitionId=1&branchName=master)
 
 [![Build Status](https://dev.azure.com/york-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_apis/build/status/yorklyq.calculator?branchName=master)](https://dev.azure.com/york-az400/Integrating%20External%20Source%20Control%20with%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=master)
 
